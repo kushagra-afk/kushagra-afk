@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Kush</h1>
+<h1 align="center">Hi there 👋, I'm Kushagra</h1>
 <h3 align="center">An aspiring Frontend Developer | DSA Learner</h3>
 
 ---
@@ -15,11 +15,15 @@
 
 ## Skills
 
-**Languages & Core**
-`HTML5` `CSS3` `JavaScript` `C++`
-
-**Tools**
-`Git` `GitHub` `VS Code`
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" /></a>
+  <a href="https://github.com/kushagra-afk" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" /></a>
+</p>
 
 
 ---
@@ -53,7 +57,11 @@ Coming soon...
 
 ### 🤝 Connect with Me
 
-[GitHub](https://github.com/kushagra-afk) · [LeetCode](https://leetcode.com/u/kush-afk/) · [LinkedIn](https://www.linkedin.com/in/kushagra-panwar-14b024364/)
+<p align="left">
+  <a href="https://github.com/kushagra-afk" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/kush-afk/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/kushagra-panwar-14b024364/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
