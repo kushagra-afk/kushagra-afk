@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kushagra</h1>
-<h3 align="center">An aspiring Frontend Developer | DSA Learner</h3>
+<h3 align="center">An aspiring Software Developer | DSA Learner</h3>
 
 ---
 
