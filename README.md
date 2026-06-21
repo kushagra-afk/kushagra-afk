@@ -54,6 +54,11 @@ Coming soon...
 </p>
 
 ---
+CONTRIBUTION GRAPH
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushagra-afk&theme=tokyo-night)](https://github.com/kushagra-afk)
+
+---
 
 ### 🤝 Connect with Me
 
