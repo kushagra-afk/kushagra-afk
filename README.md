@@ -61,6 +61,14 @@ Coming soon...
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kushagra-afk/kushagra-afk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kushagra-afk/kushagra-afk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kushagra-afk/kushagra-afk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://github.com/kushagra-afk" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
